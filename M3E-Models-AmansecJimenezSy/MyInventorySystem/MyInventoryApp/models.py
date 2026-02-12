@@ -1,5 +1,5 @@
 # Louis Amansec, , Zeus Jimenez, & Nathan Riley Sy, 244311
-#  February 2026 
+# February 2026 
 
 '''
 I hereby attest to the truth of the following facts:
